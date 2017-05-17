@@ -150,7 +150,7 @@
         <item name="android:paddingLeft"> @dimen/activity_horizontal_margin </item>
         <item name="android:paddingRight"> @dimen/activity_horizontal_margin </item>
         <item name="android:backgroundDimEnabled">true</item>
-        <item name="android:backgroundDimAmount">80%</item>
+
     </style>
 
     <!-- Math Fun layout style-->

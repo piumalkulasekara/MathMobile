@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              style="@style/dialog_layout_style">
+
+    <Button
+            android:id="@+id/novice_button"
+            style="@style/button_style2"
+            android:text="@string/novice_label"/>
+
+    <Button
+            android:id="@+id/easy_button"
+            style="@style/button_style2"
+            android:text="@string/easy_label"/>
+
+    <Button
+            android:id="@+id/medium_button"
+            style="@style/button_style2"
+            android:text="@string/medium_label"/>
+
+    <Button
+            android:id="@+id/guru_button"
+            style="@style/button_style2"
+            android:text="@string/guru_label"/>
+
+    <!--android:layout_width="wrap_content"-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_height="match_parent"-->
+</LinearLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/game_layout_style">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center">
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_height="50dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center">
+
+            <TextView
+                    style="@style/guess_label"/>
+
+            <EditText
+                    android:id="@+id/input_textbox"
+                    style="@style/text_box"/>
+        </LinearLayout>
+
+        <TableLayout
+                android:layout_height="220dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center_horizontal">
+
+            <TableRow>
+                <Button
+                        android:id="@+id/btnVal1"
+                        style="@style/grid_button_style"
+                        android:text="@string/val1"/>
+
+                <Button
+                        android:id="@+id/btnVal2"
+                        style="@style/grid_button_style"
+                        android:text="@string/val2"/>
+
+                <Button
+                        android:id="@+id/btnVal3"
+                        style="@style/grid_button_style"
+                        android:text="@string/val3"/>
+            </TableRow>
+
+            <TableRow>
+                <Button
+                        android:id="@+id/btnVal4"
+                        style="@style/grid_button_style"
+                        android:text="@string/val4"/>
+
+                <Button
+                        android:id="@+id/btnVal5"
+                        style="@style/grid_button_style"
+                        android:text="@string/val5"/>
+
+                <Button
+                        android:id="@+id/btnVal6"
+                        style="@style/grid_button_style"
+                        android:text="@string/val6"/>
+            </TableRow>
+
+            <TableRow>
+                <Button
+                        android:id="@+id/btnVal7"
+                        style="@style/grid_button_style"
+                        android:text="@string/val7"/>
+
+                <Button
+                        android:id="@+id/btnVal8"
+                        style="@style/grid_button_style"
+                        android:text="@string/val8"/>
+
+                <Button
+                        android:id="@+id/btnVal9"
+                        style="@style/grid_button_style"
+                        android:text="@string/val9"/>
+            </TableRow>
+
+            <TableRow>
+                <Button
+                        android:id="@+id/btnValDel"
+                        style="@style/grid_button_style"
+                        android:text="@string/valDel"/>
+
+                <Button
+                        android:id="@+id/btnVal0"
+                        style="@style/grid_button_style"
+                        android:text="@string/val0"/>
+
+                <Button
+                        android:id="@+id/btnValEntr"
+                        style="@style/grid_button_style"
+                        android:text="@string/valEntr"/>
+
+                <Button
+                        android:id="@+id/btnValMinus"
+                        style="@style/grid_button_style"
+                        android:text="@string/valMinus"/>
+            </TableRow>
+
+        </TableLayout>
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_height="50dp"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center">
+
+            <TextView
+                    style="@style/time_remaining_label"/>
+
+            <TextView
+                    android:id="@+id/timer"
+                    style="@style/timer_style"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

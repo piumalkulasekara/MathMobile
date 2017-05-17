@@ -1,0 +1,182 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- Header Style -->
+    <style name="header_style">
+        <item name="android:layout_height"> wrap_content </item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_gravity"> center </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:textSize"> 25sp </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:textColor"> @color/light_gray </item>
+        <item name="android:layout_marginBottom"> 10dip </item>
+        <item name="android:layout_marginTop"> 5dip </item>
+    </style>
+
+    <!-- Button Style 1-->
+    <style name="button_style1">
+        <item name="android:layout_marginBottom"> 5dip </item>
+        <item name="android:layout_height"> wrap_content </item>
+        <item name="android:layout_width">202dp</item>
+        <item name="android:layout_gravity"> center </item>
+        <item name="android:textSize"> 10sp </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:background"> @drawable/oval_shape </item>
+    </style>
+
+    <!-- Button Style 2-->
+    <style name="button_style2">
+        <item name="android:layout_marginBottom"> 5dip </item>
+        <item name="android:layout_height"> 48dp </item>
+        <item name="android:layout_width">202dp</item>
+        <item name="android:layout_gravity"> center </item>
+        <item name="android:textSize"> 15sp </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:background"> @drawable/oval_shape </item>
+    </style>
+
+    <!-- Grid Button Styles-->
+    <style name="grid_button_style">
+        <item name="android:layout_marginBottom"> 2dip </item>
+        <item name="android:layout_marginLeft"> 2dip </item>
+        <item name="android:layout_height"> 50dp </item>
+        <item name="android:layout_width"> 50dp </item>
+        <item name="android:layout_gravity"> center </item>
+        <item name="android:textSize"> 15sp </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:background"> @drawable/oval_shape </item>
+    </style>
+
+    <!-- Alert Dialog Style -->
+    <style name="AlertDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <!-- Text Box Style -->
+    <style name="text_box">
+        <item name="android:layout_width"> 170dp </item>
+        <item name="android:layout_height"> 30dp </item>
+        <item name="android:background"> @drawable/oval_shape</item>
+        <item name="android:textSize"> 16sp </item>
+    </style>
+
+    <!-- Guess Label Style -->
+    <style name="guess_label">
+        <item name="android:layout_width"> 55dp </item>
+        <item name="android:layout_height"> 50dp </item>
+        <item name="android:text"> @string/guess </item>
+        <item name="android:textSize"> 18sp </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:textColor"> @color/white </item>
+        <item name="android:layout_marginLeft"> 2dip </item>
+    </style>
+
+    <!-- Correct toast Style -->
+    <style name="toast_correct_style">
+        <item name="android:layout_width">100dp </item>
+        <item name="android:layout_height"> 40dp </item>
+        <item name="android:background"> @color/green</item>
+        <item name="android:textColor"> @color/black </item>
+        <item name="android:gravity"> center </item>
+    </style>
+
+    <!-- Wrong toast Style -->
+    <style name="toast_wrong_style">
+        <item name="android:layout_width">100dp </item>
+        <item name="android:layout_height"> 40dp </item>
+        <item name="android:background"> @color/red</item>
+        <item name="android:textColor"> @color/black </item>
+        <item name="android:gravity"> center </item>
+    </style>
+
+    <!-- Marks toast Style -->
+    <style name="toast_hints_style">
+        <item name="android:layout_width">100dp </item>
+        <item name="android:layout_height"> 40dp </item>
+        <item name="android:background"> @color/peach</item>
+        <item name="android:textColor"> @color/black </item>
+        <item name="android:gravity"> center </item>
+    </style>
+
+    <!-- Timer Style -->
+    <style name="timer_style">
+        <item name="android:layout_width"> 50dp </item>
+        <item name="android:layout_height"> 30dp </item>
+        <item name="android:textSize"> 16sp </item>
+        <item name="android:gravity"> center </item>
+        <item name="android:layout_gravity"> center </item>
+        <item name="android:layout_marginTop"> 1dip </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:background"> @drawable/oval_shape </item>
+    </style>
+
+    <!-- Time remaining label Style -->
+    <style name="time_remaining_label">
+        <item name="android:layout_width"> 150dp </item>
+        <item name="android:layout_height"> 30dp </item>
+        <item name="android:text"> @string/time_remain</item>
+        <item name="android:textSize"> 18sp </item>
+        <item name="android:textStyle"> bold </item>
+        <item name="android:textColor"> @color/white </item>
+        <item name="android:layout_marginTop"> 11dip </item>
+    </style>
+
+    <!-- Layout Styles -->
+    <!-- Dialog layout style-->
+    <style name="dialog_layout_style">
+        <item name="android:layout_width"> match_parent </item>
+        <item name="android:layout_height"> match_parent </item>
+        <item name="android:orientation"> vertical </item>
+        <item name="android:paddingBottom"> @dimen/activity_vertical_margin </item>
+        <item name="android:paddingLeft"> @dimen/activity_horizontal_margin </item>
+        <item name="android:paddingRight"> @dimen/activity_horizontal_margin </item>
+    </style>
+
+    <!-- Math Fun layout style-->
+    <style name="math_fun_layout_style">
+        <item name="android:layout_width"> match_parent </item>
+        <item name="android:layout_height"> match_parent </item>
+        <item name="android:orientation"> vertical </item>
+        <item name="android:paddingBottom"> @dimen/activity_vertical_margin </item>
+        <item name="android:paddingTop"> @dimen/activity_vertical_margin </item>
+        <item name="android:paddingLeft"> @dimen/activity_horizontal_margin </item>
+        <item name="android:paddingRight"> @dimen/activity_horizontal_margin </item>
+        <item name="android:background"> @color/black </item>
+        <item name="android:gravity"> center </item>
+    </style>
+
+    <!-- Game layout style-->
+    <style name="game_layout_style">
+        <item name="android:layout_width"> match_parent </item>
+        <item name="android:layout_height"> match_parent </item>
+        <item name="android:orientation"> horizontal </item>
+        <item name="android:paddingBottom"> @dimen/activity_vertical_margin </item>
+        <item name="android:paddingTop"> @dimen/activity_vertical_margin </item>
+        <item name="android:paddingLeft"> @dimen/activity_horizontal_margin </item>
+        <item name="android:paddingRight"> @dimen/activity_horizontal_margin </item>
+        <item name="android:padding"> 5dip </item>
+        <item name="android:background"> @color/black </item>
+        <item name="android:gravity"> center </item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\18fd739327da5e26762b6e00b74ec2b2d032d1c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_377bb5aa8bd34284e56bdac26fc852dc6030307d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\856c41aa13d9cb53a23fdda596cf818f17a312be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_a87eb937f3a20c3b7ac3a9174a71f796bb728cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\AppData\Local\Xamarin\MonoForAndroid\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_cc5b0d72ae9d450007142fc6437d664a6e760c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\c317b9bc3e2f42ff7f29430fa0ca55c1323ad76c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1470b565f6f9a0cf5005d172da34e0dc7ca08b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\023f5d4d2d962417e3a753cb71f1c43b6897b5b7\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_55405b5bb0c22f28e94db6aca2d210ceba5177e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\f19a0f77c641b18c6d864b2dc6121c61f626b375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_17ea414585a57be86546c8f896fee32351ce448a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\d722a41dddfefe5d2d7abe092a4475123ab8774f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_f163fdf55eb39dde93d8ab815b95a6997c025d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\c317b9bc3e2f42ff7f29430fa0ca55c1323ad76c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_2c9b1ded7607c145953352ce40e72931c3939424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\023f5d4d2d962417e3a753cb71f1c43b6897b5b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_f286271634707a3c381b60fdcd83f1bbab450193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\bb740a016941e55d8f6151a3f284d1c8a0a47c77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_eb61d8c71f6af69b6066bdf5b9124f8fb437df78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\bb740a016941e55d8f6151a3f284d1c8a0a47c77\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9e6a6c3f253d8e09ee01fcab4764d15125e74db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\f4c72dbad2dd2e032b56676f3162219ae8d4206d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_450f7f13dcc2707f55e3605001da378b020d8efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\f19a0f77c641b18c6d864b2dc6121c61f626b375\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_dc331fb41a9259588721b55998a3f85fc362f222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\1bd08f2161f3c976381e3f33f319c2e137530da4\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_10729af96b408f4c9188d3b27b2d4e2bb70d9a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Piumal Kulasekara\.android\build-cache\1bd08f2161f3c976381e3f33f319c2e137530da4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\My Files\IIT\Sem 02\Mobile Development\CW 01\MathMobile\app\build\intermediates\pre-dexed\debug\classes_b8ff1d8ac010bed446c0ae3e00cf1b9654c9da8c.jar" />
+    </item>
+
+</items>
